@@ -1,0 +1,17 @@
+{
+  "frontendFolder": "/Users/lorenliu/Downloads/my-todo/./frontend",
+  "themeFolder": "themes",
+  "themeResourceFolder": "/Users/lorenliu/Downloads/my-todo/./frontend/generated/jar-resources",
+  "staticOutput": "/Users/lorenliu/Downloads/my-todo/target/classes/META-INF/VAADIN/webapp/VAADIN/static",
+  "generatedFolder": "generated",
+  "statsOutput": "/Users/lorenliu/Downloads/my-todo/target/classes/META-INF/VAADIN/config",
+  "frontendBundleOutput": "/Users/lorenliu/Downloads/my-todo/target/classes/META-INF/VAADIN/webapp",
+  "devBundleOutput": "/Users/lorenliu/Downloads/my-todo/src/main/dev-bundle/webapp",
+  "devBundleStatsOutput": "/Users/lorenliu/Downloads/my-todo/src/main/dev-bundle/config",
+  "jarResourcesFolder": "/Users/lorenliu/Downloads/my-todo/./frontend/generated/jar-resources",
+  "themeName": "mytodo",
+  "clientServiceWorkerSource": "/Users/lorenliu/Downloads/my-todo/target/sw.ts",
+  "pwaEnabled": false,
+  "offlineEnabled": false,
+  "offlinePath": "'offline.html'"
+}
